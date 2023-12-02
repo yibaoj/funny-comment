@@ -2,6 +2,8 @@
 
 This repo is a collection of funny comments, mainly from Chinese internet.
 
+It is intended for fun, and a catch of public reaction to incidents.
+
 ## Nov. 2023
 
 - 2023年11月27日夜间至11月28日上午，滴滴app发生系统故障，宕机近12小时。
